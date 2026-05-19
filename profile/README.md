@@ -1,4 +1,4 @@
-# 🍏 KaloriKu - Smart Nutrition Tracking System
+# KaloriKu - Smart Nutrition Tracking System
 
 Selamat datang di *repository* organisasi **KaloriKu**! 🚀
 
@@ -21,12 +21,12 @@ Tim kami terdiri dari 6 *engineer* dan *researcher* yang berkolaborasi erat untu
 
 | Nama / GitHub Handle | Role | Fokus Area & Tanggung Jawab |
 | :--- | :--- | :--- |
-| **[Nama/Akun FE]** | Front-End Engineer | Membangun UI/UX yang responsif, *state management*, dan integrasi API di sisi klien menggunakan ekosistem React/Next.js. |
-| **[Nama/Akun BE]** | Back-End Engineer | Mengembangkan *RESTful API*, mengelola skema *database*, keamanan data pengguna, dan arsitektur *server*. |
-| **[Nama/Akun DS 1]** | Data Scientist | Eksplorasi data, pemrosesan *dataset* nutrisi, dan pengembangan *pipeline* data. |
-| **[Nama/Akun DS 2]** | Data Scientist | Analisis regresi untuk estimasi kalori dan eksperimen pemodelan statistik. |
-| **[Nama/Akun AI 1]** | AI Engineer | Implementasi dan optimasi model *Natural Language Processing* (NLP) untuk pengenalan teks makanan. |
-| **[Nama/Akun AI 2]** | AI Engineer | *Deployment* model ML ke tahap *production*, evaluasi metrik akurasi AI, dan integrasi dengan sistem *backend*. |
+| **Muhamamd Kevin Alvarel** | Front-End Engineer | Membangun UI/UX yang responsif, *state management*, dan integrasi API di sisi klien menggunakan ekosistem React/Next.js. |
+| **Fajrin Widianto** | Back-End Engineer | Mengembangkan *RESTful API*, mengelola skema *database*, keamanan data pengguna, dan arsitektur *server*. |
+| **Shulha Diyana** | Data Scientist | Eksplorasi data, pemrosesan *dataset* nutrisi, dan pengembangan *pipeline* data. |
+| **Nabila Carrissa** | Data Scientist | Analisis regresi untuk estimasi kalori dan eksperimen pemodelan statistik. |
+| **Ananda Safrida** | AI Engineer | Implementasi dan optimasi model *Natural Language Processing* (NLP) untuk pengenalan teks makanan. |
+| **Muhammad Sausan Syafiq** | AI Engineer | *Deployment* model ML ke tahap *production*, evaluasi metrik akurasi AI, dan integrasi dengan sistem *backend*. |
 
 ---
 
@@ -45,3 +45,4 @@ Sebagai panduan kolaborasi tim, kita menerapkan standar berikut dalam setiap sik
 4.  **Definition of Done (DoD):** Kode bisa dianggap selesai jika sudah memenuhi kriteria fungsional, tidak ada konflik saat integrasi, dan lulus uji coba pada *environment staging*.
 
 Mari kita bangun sistem ini dengan rapi dan terukur! 💻✨
+
